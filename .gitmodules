@@ -1,0 +1,6 @@
+[submodule "ext/did_parser/antlr4-upstream"]
+	path = ext/did_parser/antlr4-upstream
+	url = https://github.com/antlr/antlr4
+[submodule "ext/parser/antlr4-upstream"]
+	path = ext/parser/antlr4-upstream
+	url = https://github.com/antlr/antlr4
