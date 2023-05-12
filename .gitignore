@@ -5,3 +5,8 @@ pkg/
 ext/did_parser/Makefile
 ext/did_parser/mkmf.log
 *.bundle
+/tmp/
+/.idea/
+
+.byebug_history
+.DS_Store
